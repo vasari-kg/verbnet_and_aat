@@ -1,0 +1,352 @@
+sent_id,start_pos,end_pos,surface,aat_id,aat_label,aat_type,vn_id
+
+0,489,499,the figure,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work,True
+
+0,557,567,the façade,http://vocab.getty.edu/aat/300002526,façades,building,True
+
+0,577,588,the statues,http://vocab.getty.edu/aat/300047600,statues,visual_work,True
+
+0,594,602,the head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work,True
+
+0,696,702,memory,http://vocab.getty.edu/aat/300006956,memorials (monuments),building,False
+
+1,549,560,that temple,http://vocab.getty.edu/aat/300007595,temples (buildings),building,True
+
+2,41,51,the school,http://vocab.getty.edu/aat/300006495,schools (buildings),building,True
+
+2,385,394,the seeds,http://vocab.getty.edu/aat/300400469,seeds (plant components),building,True
+
+2,418,428,the houses,http://vocab.getty.edu/aat/300005433,houses,building,True
+
+3,361,370,that city,http://vocab.getty.edu/aat/300008389,cities,building,True
+
+3,385,397,their Palace,http://vocab.getty.edu/aat/300005734,palaces (official residences),building,True
+
+3,466,483,the other statues,http://vocab.getty.edu/aat/300047600,statues,visual_work,True
+
+3,487,498,that façade,http://vocab.getty.edu/aat/300002526,façades,building
+
+3,498,507,the front,http://vocab.getty.edu/aat/300389894,fronts (architectural),building
+
+5,433,441,his head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+5,443,454,which model,http://vocab.getty.edu/aat/300047753,models (representations),visual_work
+
+5,481,487,bronze,http://vocab.getty.edu/aat/300047333,bronzes (visual works),visual_work
+
+5,524,533,the court,http://vocab.getty.edu/aat/300007322,courts (recreation spaces),building
+
+5,537,546,the house,http://vocab.getty.edu/aat/300005433,houses,building
+
+5,675,685,the Palace,http://vocab.getty.edu/aat/300005734,palaces (official residences),building
+
+6,477,485,his nose,http://vocab.getty.edu/aat/300003324,nosings (steps),building
+
+6,1085,1093,building,http://vocab.getty.edu/aat/300004792,buildings (structures),building
+
+7,259,271,some figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+7,332,340,the head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+7,344,353,the altar,http://vocab.getty.edu/aat/300003725,altars (religious fixtures),building
+
+8,153,165,the churches,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+8,167,178,monasteries,http://vocab.getty.edu/aat/300000641,monasteries (built complexes),building
+
+8,184,193,hospitals,http://vocab.getty.edu/aat/300006676,hospitals (buildings for health facility),building
+
+8,184,193,hospitals,http://vocab.getty.edu/aat/300312214,hospitals (buildings for pilgrims),building
+
+8,356,366,the chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+8,606,613,drawing,http://vocab.getty.edu/aat/300033973,drawings (visual works),visual_work
+
+9,126,135,portraits,http://vocab.getty.edu/aat/300015637,portraits,visual_work
+
+9,178,190,a tabernacle,http://vocab.getty.edu/aat/300207778,tabernacles (liturgical containers),building
+
+9,178,190,a tabernacle,http://vocab.getty.edu/aat/300207778,tabernacles (liturgical containers),visual_work
+
+9,178,190,a tabernacle,http://vocab.getty.edu/aat/300312236,tabernacles (Christian buildings),building
+
+9,194,200,fresco,http://vocab.getty.edu/aat/300177433,frescoes (paintings),visual_work
+
+9,247,255,the head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+10,313,320,a fruit,http://vocab.getty.edu/aat/300011868,fruit,building
+
+11,336,342,fresco,http://vocab.getty.edu/aat/300177433,frescoes (paintings),visual_work
+
+11,342,359,all the buildings,http://vocab.getty.edu/aat/300004792,buildings (structures),building
+
+11,420,426,pieces,http://vocab.getty.edu/aat/300410272,pieces (graffiti art),visual_work
+
+12,436,447,his castles,http://vocab.getty.edu/aat/300006891,castles (fortifications),building
+
+13,417,428,that animal,http://vocab.getty.edu/aat/300404884,anime (genre),visual_work
+
+13,417,428,that animal,http://vocab.getty.edu/aat/300411663,animations (visual works),visual_work
+
+13,534,541,animals,http://vocab.getty.edu/aat/300404884,anime (genre),visual_work
+
+13,534,541,animals,http://vocab.getty.edu/aat/300411663,animations (visual works),visual_work
+
+14,360,369,the Cross,http://vocab.getty.edu/aat/300004615,crossings (building spaces),building
+
+14,360,369,the Cross,http://vocab.getty.edu/aat/300235443,crosses (visual works),visual_work
+
+14,484,494,the Chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+14,507,520,other figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+14,508,522,the high-altar,http://vocab.getty.edu/aat/300003728,high altars,building
+
+14,628,640,the Sacristy,http://vocab.getty.edu/aat/300004631,sacristies (religious spaces),building
+
+14,644,654,the Church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+16,201,212,some scenes,http://vocab.getty.edu/aat/300264666,scenes (depictions),visual_work
+
+16,216,222,fresco,http://vocab.getty.edu/aat/300177433,frescoes (paintings),visual_work
+
+16,376,390,fortifications,http://vocab.getty.edu/aat/300006888,fortifications (built environment),building
+
+16,395,404,that city,http://vocab.getty.edu/aat/300008389,cities,building
+
+16,709,719,the Chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+16,737,745,a chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+17,269,276,a panel,http://vocab.getty.edu/aat/300014658,paneling,building
+
+17,269,276,a panel,http://vocab.getty.edu/aat/300069079,panels (surface components),building
+
+17,318,324,fresco,http://vocab.getty.edu/aat/300177433,frescoes (paintings),visual_work
+
+18,755,763,painting,http://vocab.getty.edu/aat/300033618,paintings (visual works),visual_work
+
+19,281,289,painting,http://vocab.getty.edu/aat/300033618,paintings (visual works),visual_work
+
+20,369,382,the same road,http://vocab.getty.edu/aat/300008217,roads,building
+
+20,403,411,a chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+20,585,592,figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+23,594,609,the architraves,http://vocab.getty.edu/aat/300001780,architraves (entablature),building
+
+23,611,618,friezes,http://vocab.getty.edu/aat/300001816,friezes (entablature components),building
+
+23,624,632,cornices,http://vocab.getty.edu/aat/300001788,cornices,building
+
+23,639,649,the arches,http://vocab.getty.edu/aat/300000994,arches,building
+
+23,686,696,the church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+23,715,725,the socles,http://vocab.getty.edu/aat/300080499,socles,building
+
+23,776,787,the tribune,http://vocab.getty.edu/aat/300082077,tribunes (stories),building
+
+23,776,787,the tribune,http://vocab.getty.edu/aat/300251598,tribunals (platforms),building
+
+23,835,848,the transepts,http://vocab.getty.edu/aat/300004645,transepts,building
+
+23,835,871,"the transepts, where the chapels are",http://vocab.getty.edu/aat/300417349,transept chapels,building
+
+23,856,867,the chapels,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+23,977,986,the walls,http://vocab.getty.edu/aat/300002469,walls,building
+
+23,991,1000,pilasters,http://vocab.getty.edu/aat/300002737,pilasters (wall components),building
+
+25,368,377,that city,http://vocab.getty.edu/aat/300008389,cities,building
+
+25,566,574,the city,http://vocab.getty.edu/aat/300008389,cities,building
+
+27,427,433,pieces,http://vocab.getty.edu/aat/300410272,pieces (graffiti art),visual_work
+
+27,510,514,head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+27,620,626,a tomb,http://vocab.getty.edu/aat/300005926,tombs,building
+
+28,302,310,the city,http://vocab.getty.edu/aat/300008389,cities,building
+
+28,602,612,the houses,http://vocab.getty.edu/aat/300005433,houses,building
+
+29,59,66,a scene,http://vocab.getty.edu/aat/300264666,scenes (depictions),visual_work
+
+29,119,131,an apartment,http://vocab.getty.edu/aat/300004063,apartments,building
+
+29,309,319,this scene,http://vocab.getty.edu/aat/300264666,scenes (depictions),visual_work
+
+29,353,360,a story,http://vocab.getty.edu/aat/300002667,stories (building divisions),building
+
+29,466,476,a building,http://vocab.getty.edu/aat/300004792,buildings (structures),building
+
+30,439,448,the panel,http://vocab.getty.edu/aat/300014658,paneling,building
+
+30,439,448,the panel,http://vocab.getty.edu/aat/300069079,panels (surface components),building
+
+30,452,467,the same chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+31,483,495,some figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+31,527,533,fresco,http://vocab.getty.edu/aat/300177433,frescoes (paintings),visual_work
+
+33,73,84,the tribune,http://vocab.getty.edu/aat/300082077,tribunes (stories),building
+
+33,73,84,the tribune,http://vocab.getty.edu/aat/300251598,tribunals (platforms),building
+
+33,290,300,the models,http://vocab.getty.edu/aat/300047753,models (representations),visual_work
+
+33,304,314,the Church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+33,314,326,the entrance,http://vocab.getty.edu/aat/300002776,entrances,building
+
+33,410,422,that tribune,http://vocab.getty.edu/aat/300082077,tribunes (stories),building
+
+33,410,422,that tribune,http://vocab.getty.edu/aat/300251598,tribunals (platforms),building
+
+33,504,511,a niche,http://vocab.getty.edu/aat/300002704,niches,building
+
+35,39,48,the Pietà,http://vocab.getty.edu/aat/300400908,pietàs,visual_work
+
+35,94,105,the cartoon,http://vocab.getty.edu/aat/300034442,cartoons (working drawings),visual_work
+
+35,94,105,the cartoon,http://vocab.getty.edu/aat/300123430,cartoons (humorous images),visual_work
+
+35,314,322,his room,http://vocab.getty.edu/aat/300004044,rooms (interior spaces),building
+
+35,337,348,the figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+35,344,354,the Church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+35,363,371,his tomb,http://vocab.getty.edu/aat/300005926,tombs,building
+
+35,365,373,the tomb,http://vocab.getty.edu/aat/300005926,tombs,building
+
+35,395,403,the tomb,http://vocab.getty.edu/aat/300005926,tombs,building
+
+35,480,492,a drawbridge,http://vocab.getty.edu/aat/300007858,drawbridges,building
+
+38,221,230,portraits,http://vocab.getty.edu/aat/300015637,portraits,visual_work
+
+38,310,317,figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+38,335,345,some heads,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+38,382,395,the draperies,http://vocab.getty.edu/aat/300262585,drapery (representations),visual_work
+
+38,382,396,"the draperies,",http://vocab.getty.edu/aat/300262585,drapery (representations),visual_work
+
+38,451,462,the figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+38,460,468,painting,http://vocab.getty.edu/aat/300033618,paintings (visual works),visual_work
+
+39,318,332,the high-altar,http://vocab.getty.edu/aat/300003728,high altars,building
+
+39,336,346,the church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+39,340,355,the same church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+39,383,389,a wall,http://vocab.getty.edu/aat/300002469,walls,building
+
+39,393,403,the church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+39,407,421,the high-altar,http://vocab.getty.edu/aat/300003728,high altars,building
+
+39,426,433,figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+40,248,259,his figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+40,352,363,his grounds,http://vocab.getty.edu/aat/300008166,grounds (open spaces),building
+
+41,508,518,the Chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+41,547,558,their heads,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+42,659,676,all their actions,http://vocab.getty.edu/aat/300185409,actions (works of art),visual_work
+
+43,151,158,a panel,http://vocab.getty.edu/aat/300014658,paneling,building
+
+43,151,158,a panel,http://vocab.getty.edu/aat/300069079,panels (surface components),building
+
+43,219,229,the chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+43,278,286,her head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+43,454,462,my story,http://vocab.getty.edu/aat/300002667,stories (building divisions),building
+
+44,723,731,the head,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+44,763,773,the church,http://vocab.getty.edu/aat/300007466,churches (buildings),building
+
+44,825,835,the houses,http://vocab.getty.edu/aat/300005433,houses,building
+
+44,961,972,the figures,http://vocab.getty.edu/aat/300189808,figures (representations),visual_work
+
+46,520,532,the building,http://vocab.getty.edu/aat/300004792,buildings (structures),building
+
+46,543,559,the construction,http://vocab.getty.edu/aat/300047195,constructions (sculpture),visual_work
+
+47,349,360,that chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+47,376,391,their pediments,http://vocab.getty.edu/aat/300002726,pediments,building
+
+47,396,404,cornices,http://vocab.getty.edu/aat/300001788,cornices,building
+
+47,431,438,columns,http://vocab.getty.edu/aat/300001571,columns (architectural elements),building
+
+47,432,440,the door,http://vocab.getty.edu/aat/300002803,doors,building
+
+47,466,476,the chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
+47,474,483,the sound,http://vocab.getty.edu/aat/300266558,sounds (bodies of water),building
+
+47,500,513,the entrances,http://vocab.getty.edu/aat/300002776,entrances,building
+
+47,536,545,that city,http://vocab.getty.edu/aat/300008389,cities,building
+
+47,542,549,columns,http://vocab.getty.edu/aat/300001571,columns (architectural elements),building
+
+47,551,559,capitals,http://vocab.getty.edu/aat/300001662,capitals (column components),building
+
+47,551,559,capitals,http://vocab.getty.edu/aat/300387218,capitals (seats of government),building
+
+49,239,251,his portrait,http://vocab.getty.edu/aat/300015637,portraits,visual_work
+
+50,284,291,animals,http://vocab.getty.edu/aat/300404884,anime (genre),visual_work
+
+50,284,291,animals,http://vocab.getty.edu/aat/300411663,animations (visual works),visual_work
+
+50,367,372,casts,http://vocab.getty.edu/aat/300047806,casts (sculpture),visual_work
+
+50,544,549,study,http://vocab.getty.edu/aat/300081053,studies (visual works),visual_work
+
+50,544,549,study,http://vocab.getty.edu/aat/300081781,studies (rooms),building
+
+50,544,553,the altar,http://vocab.getty.edu/aat/300003725,altars (religious fixtures),building
+
+51,373,382,the heads,http://vocab.getty.edu/aat/300262520,heads (representations),visual_work
+
+51,474,478,wood,http://vocab.getty.edu/aat/300132451,woods (plant communities),building
+
+51,524,537,the fountains,http://vocab.getty.edu/aat/300006179,fountains,building
+
+53,121,129,a frieze,http://vocab.getty.edu/aat/300001816,friezes (entablature components),building
+
+53,216,224,the wood,http://vocab.getty.edu/aat/300132451,woods (plant communities),building
+
+53,222,229,stories,http://vocab.getty.edu/aat/300002667,stories (building divisions),building
+
+53,228,241,the Belvedere,http://vocab.getty.edu/aat/300070138,belvederes,building
+
+53,471,480,a drawing,http://vocab.getty.edu/aat/300033973,drawings (visual works),visual_work
+
+53,509,521,some stories,http://vocab.getty.edu/aat/300002667,stories (building divisions),building
+
+53,619,633,the apartments,http://vocab.getty.edu/aat/300004063,apartments,building
+
+53,799,809,the chapel,http://vocab.getty.edu/aat/300004590,chapels (rooms or structures),building
+
